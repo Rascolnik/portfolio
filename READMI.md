@@ -11,7 +11,7 @@
 
 ## Проекты:
 
-Примеры моих работ можно найти на GitHub: https://github.com/Rascolnik?tab=repositories
+* Примеры моих работ можно найти на GitHub: https://github.com/Rascolnik?tab=repositories
 
 ### Контакты:
 
