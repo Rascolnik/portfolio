@@ -19,3 +19,4 @@
 * GitHub: https://github.com/Rascolnik
 
 # Я открыт для новых возможностей и сотрудничества. Спасибо за внимание!
+![img.png](img.png)
