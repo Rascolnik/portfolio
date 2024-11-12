@@ -24,9 +24,9 @@
 ## Сертификаты
 * Основы языка Python
 
-* ![img_2.png](img_2.png)
+ ![img_2.png](img_2.png)
 
 
 * Система контроля Git
 
-* ![img_1.png](img_1.png)
+ ![img_1.png](img_1.png)
